@@ -10,6 +10,7 @@ dependencies = [
     "matplotlib>=3.11.2",
     "numpy>=2.5.3",
     "pandas>=3.0.5",
+    "python-dotenv>=1.2.3",
     "rembg[gpu]>=2.0.85",
     "scikit-learn>=1.9.1",
     "scipy>=1.18.1",
@@ -18,4 +19,5 @@ dependencies = [
     "torch>=2.14.0",
     "torchmetrics>=1.9.0",
     "torchvision>=0.29.0",
+    "transformers>=4.56",
 ]

@@ -1,0 +1,13 @@
+torch>=2.4
+torchvision>=0.19
+transformers>=4.56
+huggingface_hub
+python-dotenv
+kagglehub
+rembg
+onnxruntime
+scikit-learn
+pandas
+matplotlib
+pillow
+jupyter
